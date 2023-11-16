@@ -20,7 +20,7 @@ Proje de hedef; kullanıcıların ingilizce kelimelerini kendi profillerine ekle
 
 ## Kurulum ve Kullanım
 
---
+Bu projeyi bilgisayarınızda çalıştırmak için kod editörünüzde bir klasör açıp, terminalde önce "git init" komutunu, sonra "git clone https://github.com/ibrahimkeles61/vue-example.git" komutunu çalıştırıp, işlem tamamlandıktan sonra "npm install" (ben npm kullanıyorum) komutuyla gereksinimlerin inmesini beklemelisiniz. Daha sonra terminalde "npm run dev" diyerek uygulamayı çalıştırabilirsiniz. Eğer otomatik olarak tarayıcınızda yeni bir sekmede açılmazsa, terminalde "Local:" 'ın yanında yazan adrese tıklayarak (ctrl + click) açılmasını sağlayabilirsiniz.
 
 ## Görseller
 
