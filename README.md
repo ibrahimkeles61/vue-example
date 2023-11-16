@@ -18,6 +18,12 @@ Veri Çekmek için: Fetch api
 
 Proje de hedef; kullanıcıların ingilizce kelimelerini kendi profillerine ekledikleri, eklerken isterse türkçesini de girebildiği, isterse çeviri işini uygulamaya bırakabildiği, her kullanıcının ortak kelime havuzundaki tüm kelimeleri görebildiği, kendi kelimelerinden istediğini silebildiği ve bu kelimeleri tek bir ekranda görerek çalışabildiği bir uygulama olmasıydı. Ancak bu bir okul projesi olduğundan ve tek bir amacı olduğundan onu gerçekleştirdikten sonra geliştirmedim.
 
+## Kurulum ve Kullanım
+
+--
+
+## Görseller
+
 ![foto1](https://github.com/ibrahimkeles61/vue-example/blob/main/project%20views/vue_example%201.jpg?raw=true)
 ![foto2](https://github.com/ibrahimkeles61/vue-example/blob/main/project%20views/vue_example%202.jpg?raw=true)
 ![foto3](https://github.com/ibrahimkeles61/vue-example/blob/main/project%20views/vue_example%203.jpg?raw=true)
