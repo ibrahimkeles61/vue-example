@@ -1,8 +1,27 @@
-# Vue 3 + Vite
+# Words App
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Bu projemde amacım vue.js öğrenmek ve bir apidan aldığım bilgiyi uygulamada bir noktada kullanmaktı, bu bir okul projesiydi.
 
-## Recommended IDE Setup
+## Kullandığım Teknolojiler
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
-"# vue-example" 
+Vue.js
+
+Router: vue-router
+
+State Management: vuex
+
+Google Translate Api
+
+Veri Çekmek için: Fetch api
+
+## Tanıtım
+
+Proje de hedef; kullanıcıların ingilizce kelimelerini kendi profillerine ekledikleri, eklerken isterse türkçesini de girebildiği, isterse çeviri işini uygulamaya bırakabildiği, her kullanıcının ortak kelime havuzundaki tüm kelimeleri görebildiği, kendi kelimelerinden istediğini silebildiği ve bu kelimeleri tek bir ekranda görerek çalışabildiği bir uygulama olmasıydı. Ancak bu bir okul projesi olduğundan ve tek bir amacı olduğundan onu gerçekleştirdikten sonra geliştirmedim.
+
+![foto1](https://github.com/ibrahimkeles61/vue-example/blob/main/project%20views/vue_example%201.jpg?raw=true)
+![foto2](https://github.com/ibrahimkeles61/vue-example/blob/main/project%20views/vue_example%202.jpg?raw=true)
+![foto3](https://github.com/ibrahimkeles61/vue-example/blob/main/project%20views/vue_example%203.jpg?raw=true)
+![foto4](https://github.com/ibrahimkeles61/vue-example/blob/main/project%20views/vue_example%204.jpg?raw=true)
+![foto5](https://github.com/ibrahimkeles61/vue-example/blob/main/project%20views/vue_example%205.jpg?raw=true)
+![foto6](https://github.com/ibrahimkeles61/vue-example/blob/main/project%20views/vue_example%206.jpg?raw=true)
+![foto7](https://github.com/ibrahimkeles61/vue-example/blob/main/project%20views/vue_example%207.jpg?raw=true)
